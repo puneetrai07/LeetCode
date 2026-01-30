@@ -23,6 +23,7 @@
 | [0036-valid-sudoku](https://github.com/Puneetpotter/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Puneetpotter/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Puneetpotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Puneetpotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Puneetpotter/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Puneetpotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -80,4 +81,9 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Puneetpotter/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Puneetpotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Puneetpotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
