@@ -28,6 +28,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Puneetpotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Puneetpotter/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Puneetpotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/Puneetpotter/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,4 +114,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Puneetpotter/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Puneetpotter/LeetCode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Puneetpotter/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
