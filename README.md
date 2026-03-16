@@ -26,6 +26,7 @@
 | [0049-group-anagrams](https://github.com/Puneetpotter/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Puneetpotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Puneetpotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Puneetpotter/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Puneetpotter/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Puneetpotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Puneetpotter/LeetCode/tree/master/0739-daily-temperatures) |
@@ -92,6 +93,7 @@
 | [0125-valid-palindrome](https://github.com/Puneetpotter/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Puneetpotter/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Puneetpotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Puneetpotter/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Puneetpotter/LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Puneetpotter/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Puneetpotter/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Puneetpotter/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
