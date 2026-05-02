@@ -152,6 +152,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Puneetpotter/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Puneetpotter/LeetCode/tree/master/0268-missing-number) |
+| [0788-rotated-digits](https://github.com/Puneetpotter/LeetCode/tree/master/0788-rotated-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,4 +162,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Puneetpotter/LeetCode/tree/master/0053-maximum-subarray) |
+| [0788-rotated-digits](https://github.com/Puneetpotter/LeetCode/tree/master/0788-rotated-digits) |
 <!---LeetCode Topics End-->
