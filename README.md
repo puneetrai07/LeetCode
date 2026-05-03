@@ -64,6 +64,7 @@
 | [0242-valid-anagram](https://github.com/Puneetpotter/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Puneetpotter/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Puneetpotter/LeetCode/tree/master/0409-longest-palindrome) |
+| [0796-rotate-string](https://github.com/Puneetpotter/LeetCode/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,4 +164,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Puneetpotter/LeetCode/tree/master/0053-maximum-subarray) |
 | [0788-rotated-digits](https://github.com/Puneetpotter/LeetCode/tree/master/0788-rotated-digits) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Puneetpotter/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
