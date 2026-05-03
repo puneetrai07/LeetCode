@@ -59,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Puneetpotter/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Puneetpotter/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Puneetpotter/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Puneetpotter/LeetCode/tree/master/0242-valid-anagram) |
@@ -97,6 +98,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Puneetpotter/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Puneetpotter/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Puneetpotter/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Puneetpotter/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -162,6 +164,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Puneetpotter/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Puneetpotter/LeetCode/tree/master/0053-maximum-subarray) |
 | [0788-rotated-digits](https://github.com/Puneetpotter/LeetCode/tree/master/0788-rotated-digits) |
 ## String Matching
