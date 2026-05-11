@@ -34,6 +34,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Puneetpotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Puneetpotter/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Puneetpotter/LeetCode/tree/master/0739-daily-temperatures) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Puneetpotter/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Puneetpotter/LeetCode/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Puneetpotter/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
