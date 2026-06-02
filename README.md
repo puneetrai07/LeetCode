@@ -35,6 +35,7 @@
 | [0485-max-consecutive-ones](https://github.com/Puneetpotter/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Puneetpotter/LeetCode/tree/master/0739-daily-temperatures) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Puneetpotter/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Puneetpotter/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0242-valid-anagram](https://github.com/Puneetpotter/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Puneetpotter/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Puneetpotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Puneetpotter/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -109,16 +111,19 @@
 | [0189-rotate-array](https://github.com/Puneetpotter/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Puneetpotter/LeetCode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Puneetpotter/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Puneetpotter/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Puneetpotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Puneetpotter/LeetCode/tree/master/0268-missing-number) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Puneetpotter/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Puneetpotter/LeetCode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Puneetpotter/LeetCode/tree/master/0409-longest-palindrome) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Puneetpotter/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Linked List
 |  |
 | ------- |
