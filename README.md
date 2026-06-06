@@ -35,6 +35,7 @@
 | [0485-max-consecutive-ones](https://github.com/Puneetpotter/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Puneetpotter/LeetCode/tree/master/0739-daily-temperatures) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Puneetpotter/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Puneetpotter/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Puneetpotter/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Puneetpotter/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Puneetpotter/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
