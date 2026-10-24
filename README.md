@@ -71,6 +71,7 @@
 | [0344-reverse-string](https://github.com/Puneetpotter/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Puneetpotter/LeetCode/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/Puneetpotter/LeetCode/tree/master/0796-rotate-string) |
+| [2409-count-days-spent-together](https://github.com/Puneetpotter/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Puneetpotter/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
@@ -166,6 +167,7 @@
 | [0189-rotate-array](https://github.com/Puneetpotter/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Puneetpotter/LeetCode/tree/master/0268-missing-number) |
 | [0788-rotated-digits](https://github.com/Puneetpotter/LeetCode/tree/master/0788-rotated-digits) |
+| [2409-count-days-spent-together](https://github.com/Puneetpotter/LeetCode/tree/master/2409-count-days-spent-together) |
 ## Bit Manipulation
 |  |
 | ------- |
