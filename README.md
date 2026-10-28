@@ -38,6 +38,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Puneetpotter/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Puneetpotter/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Puneetpotter/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Puneetpotter/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Puneetpotter/LeetCode/tree/master/0036-valid-sudoku) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Puneetpotter/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -173,12 +175,14 @@
 | ------- |
 | [0136-single-number](https://github.com/Puneetpotter/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Puneetpotter/LeetCode/tree/master/0268-missing-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Puneetpotter/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Puneetpotter/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Puneetpotter/LeetCode/tree/master/0053-maximum-subarray) |
 | [0788-rotated-digits](https://github.com/Puneetpotter/LeetCode/tree/master/0788-rotated-digits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Puneetpotter/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
