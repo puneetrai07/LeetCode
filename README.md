@@ -74,6 +74,7 @@
 | [0796-rotate-string](https://github.com/Puneetpotter/LeetCode/tree/master/0796-rotate-string) |
 | [2409-count-days-spent-together](https://github.com/Puneetpotter/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Puneetpotter/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Puneetpotter/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Puneetpotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Puneetpotter/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -199,4 +201,12 @@
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Puneetpotter/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Puneetpotter/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Puneetpotter/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
