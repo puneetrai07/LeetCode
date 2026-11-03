@@ -39,6 +39,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Puneetpotter/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Puneetpotter/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Puneetpotter/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Puneetpotter/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Puneetpotter/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -175,6 +176,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Puneetpotter/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0788-rotated-digits](https://github.com/Puneetpotter/LeetCode/tree/master/0788-rotated-digits) |
 | [2409-count-days-spent-together](https://github.com/Puneetpotter/LeetCode/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Puneetpotter/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
