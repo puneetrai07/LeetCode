@@ -35,6 +35,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Puneetpotter/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Puneetpotter/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0739-daily-temperatures](https://github.com/Puneetpotter/LeetCode/tree/master/0739-daily-temperatures) |
+| [1882-process-tasks-using-servers](https://github.com/Puneetpotter/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Puneetpotter/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Puneetpotter/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Puneetpotter/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Puneetpotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1882-process-tasks-using-servers](https://github.com/Puneetpotter/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Puneetpotter/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
