@@ -76,6 +76,7 @@
 | [0344-reverse-string](https://github.com/Puneetpotter/LeetCode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Puneetpotter/LeetCode/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/Puneetpotter/LeetCode/tree/master/0796-rotate-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Puneetpotter/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Puneetpotter/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Puneetpotter/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Puneetpotter/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -199,6 +200,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Puneetpotter/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Puneetpotter/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Prefix Sum
 |  |
